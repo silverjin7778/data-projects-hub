@@ -13,7 +13,7 @@
 
 ## 🔍 Analysis Projects
 ### 📈 [배송 불만과 캠페인 반응 분석을 통한 인사이트](https://github.com/silverjin7778/analysis-customer-feedback-and-campaign-response)
-* **성과**: 🏆 프로젝트 최우수상 (1등) | 기업 전략 수립 인사이트 제안
+* **성과**: 🏆 프로젝트 1등 | 기업 전략 수립 인사이트 제안
 * **담당**: 데이터 전처리, EDA, 통계 분석, 리뷰 데이터 스크래핑, 최종 발표
 * **기법**: 웹스크래핑, 카이제곱검정, ANOVA, T-test, LDA 토픽모델링, 워드클라우드
 
