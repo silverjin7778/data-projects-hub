@@ -36,7 +36,7 @@
 * **기법**: KMeans
 
 ### 🌍 [중소기업 환율 위험 대응 플랫폼 ‘환율적 참견 시점’](https://github.com/silverjin7778/modeling-sme-fx-risk-management-platform)
-* **성과**: 📊 중소기업 환율 리스크 관리 및 대응 전략 플랫폼 구현
+* **성과**: 중소기업 환율 리스크 관리 및 대응 전략 플랫폼 구현
 - **플랫폼 기능**: 4개 통화 환율 예측, 통화정책 브리핑 요약, 월별 주요 이슈 요약
 - **담당** : 웹스크래핑, LDA 토픽모델링, 정책 브리핑 요약, Streamlit 개발
 - **기법**: 웹스크래핑, Sola Pro2 API, LDA, Streamlit
